@@ -1,0 +1,17 @@
+{
+    "total_records": 1000,
+    "total_billed_cost": 20.520226728989996,
+    "providers": [
+        "AWS",
+        "Oracle",
+        "Microsoft"
+    ],
+    "services_count": 33,
+    "sample_services": [
+        "Amazon Simple Queue Service",
+        "Elastic Load Balancing",
+        "Amazon Elastic Compute Cloud",
+        "Amazon API Gateway",
+        "Amazon Simple Storage Service"
+    ]
+}
